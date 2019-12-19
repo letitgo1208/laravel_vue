@@ -48,6 +48,9 @@ php artisan vendor:publish --provider="ChristianKuri\LaravelFavorite\FavoriteSer
 ```shell
 php artisan migrate
 ```
+5) Share with google hangout
+
+https://drive.google.com/drive/folders/1ZjFvSl4n9HsZaphj9_n80FLOvfigUn8h?usp=sharing
 
 ## Models
 
